@@ -1,5 +1,5 @@
 class sim{
-public static void main(Strinng args[]){
+public static void main(String args[]){
 System.out.println("simran");
 }
 }
